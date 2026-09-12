@@ -231,3 +231,6 @@ This repository serves as the official landing page for AVS Video Editor. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of AVS Video Editor today!**
+
+---
+**Last updated:** 2026-09-12 13:51:33 UTC
