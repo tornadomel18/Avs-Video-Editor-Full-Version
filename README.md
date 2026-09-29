@@ -233,4 +233,4 @@ This repository serves as the official landing page for AVS Video Editor. The so
 **Get the most recent version of AVS Video Editor today!**
 
 ---
-**Last updated:** 2026-09-29 11:03:39 UTC
+**Last updated:** 2026-09-29 17:35:14 UTC
